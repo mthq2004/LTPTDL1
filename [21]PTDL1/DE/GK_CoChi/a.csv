@@ -1,0 +1,6 @@
+CartCode,Total,Discount,CustomerSalary,CustomerAge,Sex,MaritalStatus,IntervalTime,UseCreditCard,ListOfProduct
+C0,131,0.02,1178,36,F,1,I4,NO,shrimp>almonds>vegetables mix>green grapes
+C1,96,0.08,898,49,M,1,I3,YES,burgers>meatballs>eggs
+C2,76,0.22,818,22,F,1,I1,YES,chutney
+C3,133,0.08,2071,58,F,1,I4,NO,turkey>avocado
+C4,229,0.07,860,26,M,1,I4,YES,mineral water>milk>energy bar>whole wheat rice
